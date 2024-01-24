@@ -11,8 +11,8 @@ tools :  Golang, AWS, Pytorch, Spark, Flutter, Firebase, Docker
 code  :  Distributed System, Machine Learning
 ```
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=codeharik)](https://git.io/streak-stats)
-![Codeharik's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeharik&show_icons=true&theme=radical)
-
 [![My Skills](https://skillicons.dev/icons?i=go,aws,nothing,firebase,flutter,swift,androidstudio,nothing,postgres,mongo,nothing,terraform,ansible,jenkins,kubernetes,docker,nothing,prometheus,grafana&perline=20)](https://skillicons.dev)
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=codeharik">
+</div>
