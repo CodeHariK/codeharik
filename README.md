@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @codeharik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2> Hi, I'm Hari Krishnan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<!---
-codeharik/codeharik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codeharik/)
+[![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.shark.run)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shark.run)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BKhphVeD)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codeharik)
+
+```code
+tools :  Golang, AWS, Pytorch, Spark, Flutter, Firebase, Docker
+code  :  Distributed System, Machine Learning
+```
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=codeharik)](https://git.io/streak-stats)
+![Codeharik's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeharik&show_icons=true&theme=radical)
+
+[![My Skills](https://skillicons.dev/icons?i=go,aws,nothing,firebase,flutter,swift,androidstudio,nothing,postgres,mongo,nothing,terraform,ansible,jenkins,kubernetes,docker,nothing,prometheus,grafana&perline=20)](https://skillicons.dev)
+
