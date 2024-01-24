@@ -11,8 +11,13 @@ tools :  Golang, AWS, Pytorch, Spark, Flutter, Firebase, Docker
 code  :  Distributed System, Machine Learning
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=go,aws,nothing,firebase,flutter,swift,androidstudio,nothing,postgres,mongo,nothing,terraform,ansible,jenkins,kubernetes,docker,nothing,prometheus,grafana&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,aws,nothing,pytorch,nothing,firebase,flutter,swift,androidstudio,nothing,postgres,mongo,nothing,terraform,ansible,jenkins,kubernetes,docker,nothing,prometheus,grafana&perline=20)](https://skillicons.dev)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=codeharik">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeharik&theme=shades_of_purple">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeharik&theme=shades_of_purple">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeharik&theme=shades_of_purple">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeharik&theme=shades_of_purple&utcOffset=8">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeharik&theme=shades_of_purple">
 </div>
