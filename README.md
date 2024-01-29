@@ -6,13 +6,14 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BKhphVeD)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codeharik)
 
-```code
-code  :  Distributed System, Machine Learning
-tool  :  Golang, AWS, Pytorch, Spark, Flutter, Firebase
+```json
+{
+  "code"  :  ["Distributed System", "Machine Learning"]
+  "tool"  :  ["Golang", "AWS", "Pytorch", "Spark", "Flutter", "Firebase"]
+}
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=go,aws,nothing,pytorch,nothing,firebase,flutter,swift,androidstudio,nothing,postgres,mongo,nothing,terraform,ansible,jenkins,kubernetes,docker,nothing,prometheus,grafana&perline=20)](https://skillicons.dev)
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=codeharik">
+  <img src="https://skillicons.dev/icons?i=go,aws,nothing,pytorch,nothing,flutter,firebase,astro,svelte,swift,androidstudio,nothing,postgres,mongo,nothing,terraform,githubactions,docker,kubernetes,nothing,prometheus,grafana&perline=12">
+  <img src="https://streak-stats.demolab.com?user=codeharik&border_radius=30&card_width=320&hide_longest_streak=true">
 </div>
