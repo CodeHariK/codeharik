@@ -14,6 +14,6 @@
 ```
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,aws,nothing,pytorch,nothing,flutter,firebase,astro,svelte,swift,androidstudio,nothing,postgres,mongo,nothing,terraform,githubactions,docker,kubernetes,nothing,prometheus,grafana&perline=12">
+  <img src="https://skillicons.dev/icons?i=go,aws,nothing,pytorch,nothing,flutter,firebase,nothing,astro,svelte,swift,androidstudio,nothing,postgres,mongo,nothing,terraform,githubactions,docker,kubernetes,nothing,prometheus,grafana&perline=8">
   <img src="https://streak-stats.demolab.com?user=codeharik&border_radius=30&card_width=320&hide_longest_streak=true">
 </div>
