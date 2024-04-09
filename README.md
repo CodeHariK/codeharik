@@ -8,8 +8,12 @@
 
 ```json
 {
+  "type"  :  ["Cloud Developer", "Data Engineer"]
   "code"  :  ["Distributed System", "Machine Learning"]
-  "tool"  :  ["Golang", "AWS", "Pytorch", "Spark", "Flutter", "Firebase"]
+  "lang"  :  ["Go", "C", "Dart", "Python", "Typescript"]
+  "cloud" :  ["GCP", "Firebase", "Kubernetes"]
+  "tool"  :  ["Pytorch", "Spark"]
+  "ui"    :  ["Flutter", "Svelte"]
 }
 ```
 
