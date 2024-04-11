@@ -11,7 +11,8 @@
   "type"  :  ["Cloud Developer", "Data Engineer"]
   "code"  :  ["Distributed System", "Machine Learning"]
   "lang"  :  ["Go", "C", "Dart", "Python", "Typescript"]
-  "cloud" :  ["GCP", "Firebase", "Kubernetes"]
+  "cloud" :  ["GCP", "Firebase"]
+  "devops":  ["Kubernetes", "Github Actions", "ArgoCD", "Prometheus", "Cilium"]
   "tool"  :  ["Pytorch", "Spark"]
   "ui"    :  ["Flutter", "Svelte"]
 }
