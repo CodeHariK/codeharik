@@ -8,9 +8,9 @@
 
 ```json
 {
-  "type"  :  ["Cloud Developer", "Data Engineer"]
+  "type"  :  ["Cloud Developer", "Data Engineer", "App Developer"]
   "code"  :  ["Distributed System", "Machine Learning"]
-  "lang"  :  ["Go", "C", "Dart", "Python", "Typescript"]
+  "lang"  :  ["Go", "Python", "Dart", "Typescript"]
   "cloud" :  ["GCP", "Firebase"]
   "devops":  ["Kubernetes", "Terraform", "Github Actions", "ArgoCD", "Prometheus", "Cilium"]
   "tool"  :  ["Pytorch", "Spark"]
