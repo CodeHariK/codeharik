@@ -12,9 +12,9 @@
   "code"  :  ["Distributed System", "Machine Learning"]
   "lang"  :  ["Go", "Python", "SQL", "Dart", "Typescript"]
   "cloud" :  ["GCP", "Firebase"]
-  "devops":  ["Kubernetes", "Terraform", "Github Actions", "ArgoCD", "Prometheus", "Cilium"]
-  "tool"  :  ["Pytorch", "Spark"]
+  "data"  :  ["Pytorch", "Spark"]
   "ui"    :  ["Flutter", "Svelte"]
+  "devops":  ["Kubernetes", "Terraform", "Github Actions", "ArgoCD", "Prometheus", "Cilium"]
 }
 ```
 
