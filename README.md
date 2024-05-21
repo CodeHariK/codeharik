@@ -10,7 +10,7 @@
 {
   "type"  :  ["Cloud Developer", "Data Engineer", "App Developer"]
   "code"  :  ["Distributed System", "Machine Learning"]
-  "lang"  :  ["Go", "Python", "Dart", "Typescript"]
+  "lang"  :  ["Go", "Python", "SQL", "Dart", "Typescript"]
   "cloud" :  ["GCP", "Firebase"]
   "devops":  ["Kubernetes", "Terraform", "Github Actions", "ArgoCD", "Prometheus", "Cilium"]
   "tool"  :  ["Pytorch", "Spark"]
