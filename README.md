@@ -14,11 +14,11 @@
   "cloud" :  ["GCP", "Firebase"]
   "data"  :  ["Pytorch", "Spark"]
   "ui"    :  ["Flutter", "Svelte"]
-  "devops":  ["Kubernetes", "Terraform", "Github Actions", "ArgoCD", "Prometheus", "Cilium"]
+  "devops":  ["Kubernetes", "Terraform", "Github Actions", "ArgoCD", "Prometheus", "Opentelemetry"]
 }
 ```
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,gcp,nothing,pytorch,nothing,flutter,firebase,nothing,astro,svelte,swift,androidstudio,nothing,postgres,mongo,nothing,terraform,githubactions,docker,kubernetes,nothing,prometheus,grafana&perline=8">
+  <img src="[https://skillicons.dev/icons?i=go,gcp,nothing,pytorch,nothing,flutter,firebase,nothing,astro,svelte,swift,androidstudio,nothing,postgres,mongo,nothing,terraform,githubactions,docker,kubernetes,nothing,prometheus,grafana&perline=8](https://skillicons.dev/icons?i=go,gcp,nothing,pytorch,nothing,flutter,firebase,nothing,astro,svelte,swift,androidstudio,nothing,postgres,mongo,nothing,terraform,githubactions,docker,kubernetes,nothing,prometheus,grafana&perline=8)">
   <img src="https://streak-stats.demolab.com?user=codeharik&border_radius=30&card_width=320&hide_longest_streak=true">
 </div>
