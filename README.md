@@ -8,12 +8,12 @@
 
 ```json
 {
-  "type"  :  ["Cloud Developer", "Data Engineer", "App Developer"]
+  "type"  :  ["Cloud Golang Developer", "Flutter App Developer", "Data Engineer"]
   "code"  :  ["Distributed System", "Machine Learning"]
   "lang"  :  ["Go", "Python", "SQL", "Dart", "Typescript"]
   "cloud" :  ["GCP", "Firebase"]
   "data"  :  ["Pytorch", "Spark"]
-  "ui"    :  ["Flutter", "Svelte"]
+  "ui"    :  ["Flutter", "SolidJS"]
   "devops":  ["Kubernetes", "Terraform", "Github Actions", "ArgoCD", "Prometheus", "Opentelemetry"]
 }
 ```
